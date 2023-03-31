@@ -1,0 +1,1 @@
+Voltage(Start):0,Voltage(End):0,Gap:0,Sweep Frequency:0,Sweep Type:

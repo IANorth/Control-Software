@@ -1,0 +1,120 @@
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\FinalProject.exe
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\FinalProject.deps.json
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\FinalProject.runtimeconfig.json
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\FinalProject.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\FinalProject.pdb
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\NationalInstruments.Common.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\bin\Debug\net6.0-windows\NationalInstruments.VisaNS.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\FinalProject.vbproj.AssemblyReference.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\FinalProject.Form1.resources
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\FinalProject.vbproj.GenerateResource.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\FinalProject.AssemblyInfo.vb
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\FinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\FinalProject.vbproj.CopyComplete
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\FinalProject.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\refint\FinalProject.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\FinalProject.pdb
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V3\obj\Debug\net6.0-windows\ref\FinalProject.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\FinalProject.exe
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\FinalProject.deps.json
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\FinalProject.runtimeconfig.json
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\FinalProject.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\FinalProject.pdb
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\NationalInstruments.Common.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\bin\Debug\net6.0-windows\NationalInstruments.VisaNS.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\FinalProject.vbproj.AssemblyReference.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\FinalProject.Form1.resources
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\FinalProject.vbproj.GenerateResource.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\FinalProject.AssemblyInfo.vb
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\FinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\FinalProject.vbproj.CopyComplete
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\FinalProject.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\refint\FinalProject.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\FinalProject.pdb
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_V4\obj\Debug\net6.0-windows\ref\FinalProject.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\FinalProject.exe
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\FinalProject.deps.json
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\FinalProject.runtimeconfig.json
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\FinalProject.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\FinalProject.pdb
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\NationalInstruments.Common.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\bin\Debug\net6.0-windows\NationalInstruments.VisaNS.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\FinalProject.vbproj.AssemblyReference.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\FinalProject.Form1.resources
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\FinalProject.vbproj.GenerateResource.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\FinalProject.AssemblyInfo.vb
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\FinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\FinalProject.vbproj.CopyComplete
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\FinalProject.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\refint\FinalProject.dll
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\FinalProject.pdb
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\zceebwu\OneDrive - University College London\Desktop\FinalProject_\obj\Debug\net6.0-windows\ref\FinalProject.dll
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\FinalProject.exe
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\FinalProject.deps.json
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\FinalProject.runtimeconfig.json
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\FinalProject.dll
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\FinalProject.pdb
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\NationalInstruments.Common.dll
+C:\Users\WIN10\Desktop\Project_Final_Ve\bin\Debug\net6.0-windows\NationalInstruments.VisaNS.dll
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\FinalProject.vbproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\FinalProject.Form1.resources
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\FinalProject.vbproj.GenerateResource.cache
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\FinalProject.AssemblyInfo.vb
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\FinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\FinalProject.vbproj.CopyComplete
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\FinalProject.dll
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\refint\FinalProject.dll
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\FinalProject.pdb
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\WIN10\Desktop\Project_Final_Ve\obj\Debug\net6.0-windows\ref\FinalProject.dll

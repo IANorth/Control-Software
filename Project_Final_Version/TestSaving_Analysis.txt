@@ -1,0 +1,1 @@
+Peak(LED on):-0.52734375,Peak(LED off):0.521875,tau(LED on):-0.005000000000000001,tau(LED off):0.005
